@@ -47,7 +47,6 @@ The dataset was processed to ensure clarity and usability for analysis. The step
    - Converted date fields to a consistent datetime format.
    - Ensured all numerical values were in comparable units.
 
-For detailed steps, refer to the `data_process.ipynb` file.
 
 ---
 
